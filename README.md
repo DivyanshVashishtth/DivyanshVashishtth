@@ -1,12 +1,12 @@
 # Hi, I'm Divyansh Vashishtth 👋
 
-**2nd Year Computer Science Student | MERN Full-Stack Developer**
+**2nd Year Computer Science Student | Aspiring MERN Full-Stack Developer**
 
 ---
 
 ### About Me
-I'm a passionate developer focused on building clean, responsive, and scalable web applications with the MERN stack.  
-I enjoy turning ideas into real products while continuously improving my problem-solving, backend, and frontend skills.
+I'm a passionate developer focused on building clean, responsive, and scalable web applications.  
+I enjoy turning ideas into real products while continuously improving my problem-solving, frontend, and backend skills.
 
 ### 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
@@ -32,7 +32,7 @@ I enjoy turning ideas into real products while continuously improving my problem
 ### 🌱 Currently Learning
 - React basics and advanced concepts
 - State management
-- Backend development with Node.js / Express.js
+- Node.js and Express.js
 - MongoDB and full-stack project structure
 - Data Structures and Algorithms
 
