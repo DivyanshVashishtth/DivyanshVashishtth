@@ -1,46 +1,57 @@
 # Hi, I'm Divyansh Vashishtth 👋
 
-**2nd Year Computer Science Student** passionate about **Web Development** & **Backend Engineering**
+**2nd Year Computer Science Student | MERN Full-Stack Developer**
 
 ---
 
 ### About Me
-I'm a dedicated learner currently in my second year, focusing on building strong fundamentals in full-stack development. I enjoy turning ideas into working applications and continuously improving my coding skills through hands-on projects.
+I'm a passionate developer focused on building clean, responsive, and scalable web applications with the MERN stack.  
+I enjoy turning ideas into real products while continuously improving my problem-solving, backend, and frontend skills.
 
-### 🛠️ Technologies & Tools
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Languages**: Java, JavaScript
-- **Tools**: Git, GitHub, Vite
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Languages:** Java, JavaScript
+- **Tools:** Git, GitHub, Vite, Postman
 
 ---
 
-### 🔥 Featured Projects
-
+### 🚀 Featured Projects
 - **[ReactJS](https://github.com/DivyanshVashishtth/ReactJS)**  
-  Mini projects and concepts learned using React + Vite (Hooks, Props, Routing, etc.)
+  React + Vite mini projects covering hooks, props, routing, and core React concepts.
 
 - **[Web Development Journey](https://github.com/DivyanshVashishtth/Web-development)**  
-  Collection of HTML, CSS, JavaScript and Tailwind projects
+  A collection of HTML, CSS, JavaScript, and Tailwind CSS projects.
 
 - **[Java Programs](https://github.com/DivyanshVashishtth/Java-programs)**  
-  OOP, Collections Framework, Exception Handling and Mini Projects
+  OOP, collections, exception handling, and mini Java projects.
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced React & State Management
-- Backend Development (Node.js / Spring Boot)
+- React basics and advanced concepts
+- State management
+- Backend development with Node.js / Express.js
+- MongoDB and full-stack project structure
 - Data Structures and Algorithms
-- Building complete Full-Stack Applications
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn**: [Divyansh Vashishtth](https://www.linkedin.com/in/divyansh-vashishtth-054661380/)
-- **X**: [@DVashishtth](https://x.com/DVashishtth)
+### 📌 Goals
+- Build complete MERN applications
+- Improve backend and database design skills
+- Create projects that solve real problems
+- Strengthen DSA for internships and placements
 
 ---
 
-**"Code. Learn. Repeat."** 💻
+### 📫 Connect With Me
+- **LinkedIn:** [Divyansh Vashishtth](https://www.linkedin.com/in/divyansh-vashishtth-054661380/)
+- **X:** [@DVashishtth](https://x.com/DVashishtth)
 
-*Open to internships and collaboration opportunities!*
+---
+
+> Code. Learn. Build. Repeat. 💻
+
+*Open to internships, collaboration, and learning opportunities.*
